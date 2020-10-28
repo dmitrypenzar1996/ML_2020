@@ -17,10 +17,15 @@
 Оценка за курс ставится следующим образом:
 
 1 - < 10 баллов
+
 2 - < 20 баллов
+
 ....
+
 8 - < 80 баллов
+
 9 - < 90 баллов
+
 10 - >= 90 баллов
 
 
@@ -31,10 +36,15 @@
 Домашнюю работу можно присылать и позже, но в этом случае будет налагаться штраф - за каждую неделю -1 засчитываемое задание
 
 ## Ссылки на лекции
+
 [Лекция1, вторая часть](https://live.fbb.msu.ru/playback/presentation/2.0/playback.html?meetingId=7671b333c63af54e1bcd1681a05465787904a9c8-1600253043310<Paste>)
+
 [Лекция2](https://live.fbb.msu.ru/playback/presentation/2.0/playback.html?meetingId=7671b333c63af54e1bcd1681a05465787904a9c8-1600851092754)
+
 [Лекция3](https://live.fbb.msu.ru/playback/presentation/2.0/playback.html?meetingId=7671b333c63af54e1bcd1681a05465787904a9c8-1601463809366)
+
 [Лекция4](https://live.fbb.msu.ru/playback/presentation/2.0/playback.html?meetingId=7671b333c63af54e1bcd1681a05465787904a9c8-1602068418152 -)
+
 [Лекция5](https://live.fbb.msu.ru/playback/presentation/2.0/playback.html?meetingId=7671b333c63af54e1bcd1681a05465787904a9c8-1602672936809) 
 
 
