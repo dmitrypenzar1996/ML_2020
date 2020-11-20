@@ -51,7 +51,9 @@
 
 [Лекция7](https://live.fbb.msu.ru/playback/presentation/2.0/playback.html?meetingId=7671b333c63af54e1bcd1681a05465787904a9c8-1603882640530)
 
-[Лекция8]( https://live.fbb.msu.ru/playback/presentation/2.0/playback.html?meetingId=7671b333c63af54e1bcd1681a05465787904a9c8-1605092468296)
+[Лекция8](https://live.fbb.msu.ru/playback/presentation/2.0/playback.html?meetingId=7671b333c63af54e1bcd1681a05465787904a9c8-1605092468296)
+
+[Лекция9](https://live.fbb.msu.ru/playback/presentation/2.0/playback.html?meetingId=7671b333c63af54e1bcd1681a05465787904a9c8-1605697134169)
 
 
 ## Проект 
