@@ -49,5 +49,9 @@
 
 [Лекция6](https://live.fbb.msu.ru/playback/presentation/2.0/playback.html?meetingId=7671b333c63af54e1bcd1681a05465787904a9c8-1603277921613)
 
+[Лекция7](https://live.fbb.msu.ru/playback/presentation/2.0/playback.html?meetingId=7671b333c63af54e1bcd1681a05465787904a9c8-1603882640530)
+
+[Лекция8]( https://live.fbb.msu.ru/playback/presentation/2.0/playback.html?meetingId=7671b333c63af54e1bcd1681a05465787904a9c8-1605092468296)
+
 
 ## Проект 
